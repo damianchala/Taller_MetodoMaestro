@@ -1,0 +1,1 @@
+ABRIR TERMINAL :python main.py
